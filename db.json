@@ -1,0 +1,6 @@
+{
+  "title": "Constraint Violation",
+  "status": 400,
+  "code": 400,
+  "localizedMessage": "Constraint violation exception"
+}
